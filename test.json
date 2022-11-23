@@ -1,6 +1,6 @@
 {
   "username": "mood",
-  "password": "root",
+  "password": "1234",
   "database": "git_test",
   "hots": "127.0.0.1",
   "dialect": "mysql"
