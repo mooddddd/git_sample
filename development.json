@@ -1,7 +1,0 @@
-{
-  "username": "mood",
-  "password": "root",
-  "database": "board_dev",
-  "hots": "127.0.0.1",
-  "dialect": "mysql"
-}
